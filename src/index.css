@@ -25,6 +25,13 @@ textarea, .output {
   min-height: 50vh;
   max-width: 90vh;
   padding: 5px;
+  max-height: 50vh;
+  overflow: scroll;
+}
+
+.output img {
+  max-width: 90vh;
+  max-height: 70vh;
 }
 
 .textareaName {
