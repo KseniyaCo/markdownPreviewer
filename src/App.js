@@ -30,7 +30,10 @@ class App extends React.Component {
             <textarea  id="editor" onChange={this.handleChange} 
             placeholder="Welcome to React Markdown Previewer!" 
             cols="60" 
-            rows="10"></textarea>
+            rows="10">
+            # Marked in the browser
+            Rendered by **[marked.js.org](https://marked.js.org/)**.
+            </textarea>
           </div>
           <div className="textareaName">
             <p className="paragraphName">Previewer</p>
