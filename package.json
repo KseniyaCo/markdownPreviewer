@@ -2,9 +2,9 @@
   "name": "markdown",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/KseniyaCo/markdownPreviewer",
+  "homepage": "https://kseniyaco.github.io/markdownPreviewer",
   "dependencies": {
-    "gh-pages": "^2.1.0",
+    "gh-pages": "^2.1.1",
     "marked": "^0.7.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
